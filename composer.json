@@ -1,0 +1,15 @@
+{
+    "name": "anna/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Anna\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anna Khairetdinova",
+            "email": "AnnKhairetdinova@yandex.ru"
+        }
+    ],
+    "require": {}
+}
